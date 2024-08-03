@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ietinvi.github.io/sitemap.html.gz
+Sitemap: https://ietinvi.github.io/app/sitemap.html.gz
+Sitemap: https://ietinvi.github.io/assets/sitemap.html.gz
+Sitemap: https://ietinvi.github.io/css/sitemap.html.gz
+Sitemap: https://ietinvi.github.io/includes/sitemap.html.gz
+Sitemap: https://ietinvi.github.io/item/sitemap.html.gz
+Sitemap: https://ietinvi.github.io/src/sitemap.html.gz
